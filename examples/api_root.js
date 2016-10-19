@@ -6,7 +6,7 @@
 
 var golfnow = require("../index");
 
-var app = golfnow("clientId", "clientSecret");
+var app = golfnow("CJUALSXXDDWRWJ3XF5FXQCGRVEQAHF1U", "=#4RhWD:XnNB;)KVTCOK");
 
 var request = app.getApiRoot();
 
