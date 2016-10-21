@@ -6,7 +6,7 @@ Node.js SDK for GolfNow
 ## Installation
 
 * Install [Node.js](https://nodejs.org/)
-* Install golfnow SDK with `npm`:
+* Install GolfNow SDK with `npm`:
 
 `npm install golfnow`
 
