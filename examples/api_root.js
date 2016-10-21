@@ -8,7 +8,7 @@ var golfnow = require("../index");
 
 var app = golfnow("CJUALSXXDDWRWJ3XF5FXQCGRVEQAHF1U", "]=9&[I5kmlL+]:&|>vi&");
 
-var request = app.getRate(19818, 1179, 2016, 10, 21, 18, 30);
+var request = app.getReservation(19818, 'alabradadiaz@gmail.com', 2016);
 
 request.on('response', function(response) {
     console.log(response);
