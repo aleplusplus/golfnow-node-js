@@ -6,20 +6,28 @@ Node.js SDK for GolfNow
 ## Installation
 
 * Install [Node.js](https://nodejs.org/)
-* Install Api.ai SDK with `npm`:
+* Install golfnow SDK with `npm`:
 
-`npm install apiai`
+`npm install golfnow`
 
 
 ## Usage
 
-    var numFormatter = require('@jdaudier/number-formatter');
-
-    var formattedNum = numFormatter(35666);
-  
-  
-  Output should be `35,666`
-
+    var golfnow = require("golfnow");
+    
+    var app = golfnow("CLIENT_ID", "CLIENT_SECRET");
+    
+    var request = app.getApiRoot();
+    
+    request.on('response', function(response) {
+        console.log(response);
+    });
+    
+    request.on('error', function(error) {
+        console.log(error);
+    });
+    
+    request.end();
 
 ## Tests
 
