@@ -1,6 +1,6 @@
 {
   "name": "golfnow",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Node.js SDK for GolfNow",
   "author": "Alejandro Labrada Diaz <alabradadiaz@gmail.com>",
   "license": "MIT",
