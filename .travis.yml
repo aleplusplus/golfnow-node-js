@@ -1,10 +1,9 @@
 language: node_js
 
 node_js:
-  - stable
-
-install:
-  - npm install
+  - "6.4"
+  - "6"
+  - "5"
 
 script:
   - npm run cover
