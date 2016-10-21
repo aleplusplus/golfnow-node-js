@@ -1,6 +1,6 @@
 Node.js SDK for GolfNow
 =======================
-[![npm](https://img.shields.io/npm/v/golfnow.svg)]() [![npm](https://img.shields.io/npm/dt/golfnow.svg)]() [![Build Status](https://travis-ci.org/aleplusplus/golfnow-node-js.svg?branch=master)](https://travis-ci.org/aleplusplus/golfnow-node-js) [![Coverage Status](https://coveralls.io/repos/github/aleplusplus/golfnow-node-js/badge.svg?branch=master)](https://coveralls.io/github/aleplusplus/golfnow-node-js?branch=master)
+[![npm](https://img.shields.io/npm/v/golfnow.svg)](https://www.npmjs.com/package/golfnow) [![npm](https://img.shields.io/npm/dt/golfnow.svg)](https://www.npmjs.com/package/golfnow) [![Build Status](https://travis-ci.org/aleplusplus/golfnow-node-js.svg?branch=master)](https://travis-ci.org/aleplusplus/golfnow-node-js) [![Coverage Status](https://coveralls.io/repos/github/aleplusplus/golfnow-node-js/badge.svg?branch=master)](https://coveralls.io/github/aleplusplus/golfnow-node-js?branch=master)
 
 Affiliate & Partner API. An easy to use tee time search and booking service for GolfNow Affiliates & Partners.
 
