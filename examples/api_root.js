@@ -8,7 +8,7 @@ var golfnow = require("../index");
 
 var app = golfnow("CJUALSXXDDWRWJ3XF5FXQCGRVEQAHF1U", "]=9&[I5kmlL+]:&|>vi&");
 
-var request = app.getCourse(19818, 1179);
+var request = app.getCourseSummary(19818, {latitude:25.761681, longitude:-80.191788});
 
 request.on('response', function(response) {
     console.log(response);
