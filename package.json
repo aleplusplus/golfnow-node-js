@@ -10,7 +10,7 @@
     "url": "git+https://github.com/aleplusplus/golfnow-node-js.git"
   },
   "keywords": [
-    "golfnow"
+    "golfnow", "golf", "api"
   ],
   "bugs": {
     "url": "https://github.com/aleplusplus/golfnow-node-js/issues"
